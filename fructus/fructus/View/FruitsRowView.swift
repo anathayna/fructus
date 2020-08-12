@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct FruitsRowView: View {
-    
     var fruit: Fruit
     
     var body: some View {
