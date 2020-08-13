@@ -22,6 +22,7 @@
 		36BE75C824CA4F1F00551C3B /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BE75C724CA4F1F00551C3B /* StartButtonView.swift */; };
 		36BE75CA24CA548D00551C3B /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36BE75C924CA548D00551C3B /* OnboardingView.swift */; };
 		36C8E97124E59C7F00844B8D /* FruitDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C8E97024E59C7F00844B8D /* FruitDetailView.swift */; };
+		36C8E97324E5A19F00844B8D /* FruitHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C8E97224E5A19F00844B8D /* FruitHeaderView.swift */; };
 		36E3048124E3823D0049BB1D /* FruitsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E3048024E3823D0049BB1D /* FruitsRowView.swift */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +69,7 @@
 		36BE75C724CA4F1F00551C3B /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
 		36BE75C924CA548D00551C3B /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		36C8E97024E59C7F00844B8D /* FruitDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitDetailView.swift; sourceTree = "<group>"; };
+		36C8E97224E5A19F00844B8D /* FruitHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitHeaderView.swift; sourceTree = "<group>"; };
 		36E3048024E3823D0049BB1D /* FruitsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitsRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -174,6 +176,7 @@
 				3697C47524C9E423009A2819 /* ContentView.swift */,
 				36BE75C924CA548D00551C3B /* OnboardingView.swift */,
 				36C8E97024E59C7F00844B8D /* FruitDetailView.swift */,
+				36C8E97224E5A19F00844B8D /* FruitHeaderView.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 				3697C47624C9E423009A2819 /* ContentView.swift in Sources */,
 				36C8E97124E59C7F00844B8D /* FruitDetailView.swift in Sources */,
 				36BE75CA24CA548D00551C3B /* OnboardingView.swift in Sources */,
+				36C8E97324E5A19F00844B8D /* FruitHeaderView.swift in Sources */,
 				3699965624CCAABF002E7116 /* FruitModel.swift in Sources */,
 				36E3048124E3823D0049BB1D /* FruitsRowView.swift in Sources */,
 				3697C47424C9E423009A2819 /* fructusApp.swift in Sources */,
